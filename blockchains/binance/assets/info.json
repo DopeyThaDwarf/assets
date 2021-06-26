@@ -1,0 +1,11 @@
+{
+	"name": "Moon Men",
+	"website": "moonmentoken.com",
+	"description": "The Moon Men Token is a community driven de-fi project with hopes of becoming partners with multiple charity events and organizations.",
+	"explorer": "https://bscscan.com/token/0xc24CdBF46620021E501222B93311f5fa193656Df",
+	"type": "BEP20",
+	"symbol": "MOONMEN",
+	"decimals": 9,
+	"status": "active",
+	"id": "0xc24CdBF46620021E501222B93311f5fa193656Df"
+}
